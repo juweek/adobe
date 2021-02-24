@@ -55,8 +55,7 @@ export default {
 </script>
 
 <style src="vue-scrollama/dist/vue-scrollama.css"></style>
-<style>@import url('https://fonts.googleapis.com/css2?family=Proza+Libre&display=swap');
-</style>
+<style>@import url('https://fonts.googleapis.com/css2?family=Proza+Libre&display=swap');</style>
 <style scoped>
 
 .step {
